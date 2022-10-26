@@ -17,7 +17,7 @@ export class RecipeListComponent implements OnInit {
     new Recipe(
       'Cheese Burst Pizza',
       'This is an Italian Dish',
-      'https://live.staticflickr.com/3374/3572925000_693b458fcb_b.jpg'
+      'https://www.dominos.co.in//files/items/_1346164951.jpg'
     ),
   ];
 
